@@ -12,5 +12,3 @@ Our advantages:
 · Matilda Premium: For true connoisseurs. With a subscription, your data is merged first and in HD quality! You also get a verification badge so everyone can see what a fuck you are.
 
 Matilda - DATA FREEDOM
-
-https://github.com/MTLDLLC/MTLD/blob/690749fdd06b7b1edb44d3c77bfeb2ba3f153241/preview/matilda.png
